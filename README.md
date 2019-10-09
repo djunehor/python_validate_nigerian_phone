@@ -1,5 +1,5 @@
  Nigerian Phone Number Validator (Python)
-[![HitCount](http://hits.dwyl.io/djunehor/validate_nigerian_phone.svg)](http://hits.dwyl.io/djunehor/validate_nigerian_phone) [![CircleCI](https://circleci.com/gh/djunehor/validate_nigerian_phone.svg?style=svg)](https://circleci.com/gh/djunehor/validate_nigerian_phone)
+[![HitCount](http://hits.dwyl.io/djunehor/python_validate_nigerian_phone.svg)](http://hits.dwyl.io/djunehor/python_validate_nigerian_phone) [![CircleCI](https://circleci.com/gh/djunehor/python_validate_nigerian_phone.svg?style=svg)](https://circleci.com/gh/djunehor/python_validate_nigerian_phone)
 
 #### Issues and pull requests welcome.
 
@@ -17,13 +17,14 @@ You will need [Python 3.x](https://www.python.org/download/) and [pip](http://pi
 
 Install using pip: `pip install validate_nigerian_phone`
 Install via repo:
-- Clone repo `git clone https://github.com/djunehor/validate_nigerian_phone`
-- Place validate_nigerian_phone in your project root folder
+- Clone repo `git clone https://github.com/djunehor/python_validate_nigerian_phone`
+- Place python_validate_nigerian_phone in your project root folder
 
 ## Usage
 
 ```python
 from validate_nigerian_phone import NigerianPhone
+# or from python_validate_nigerian_phone import NigerianPhone if you cloned repo
 
 phone = NigerianPhone('+2348135087966')
 
