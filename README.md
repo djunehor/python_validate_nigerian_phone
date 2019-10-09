@@ -1,4 +1,4 @@
-# Nigerian Phone Number Validator (Python)
+ Nigerian Phone Number Validator (Python)
 [![HitCount](http://hits.dwyl.io/djunehor/validate_nigerian_phone.svg)](http://hits.dwyl.io/djunehor/validate_nigerian_phone) [![CircleCI](https://circleci.com/gh/djunehor/validate_nigerian_phone.svg?style=svg)](https://circleci.com/gh/djunehor/validate_nigerian_phone)
 
 #### Issues and pull requests welcome.
@@ -71,3 +71,6 @@ phone.get_network_by_prefix('0703') # mtn
 
 ## Contribute
 Check out the issues on GitHub and/or make a pull request to contribute!
+=======
+# phone-number-validator
+Validate if a phone number is Nigerian
