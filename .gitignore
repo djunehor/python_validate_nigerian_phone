@@ -1,0 +1,6 @@
+.idea/
+build/
+dist/
+validate_nigerian_phone.egg-info/
+.commands
+validate_nigerian_phone/__pycache__/
