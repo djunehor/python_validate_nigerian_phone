@@ -1,7 +1,7 @@
 import unittest
 import random
 
-from valid_nigerian_phone import NigerianPhone
+from validate_nigerian_phone import NigerianPhone
 
 
 class TestCase(unittest.TestCase):
