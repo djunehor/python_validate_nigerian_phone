@@ -5,6 +5,8 @@
 
 A Python module to validate and format a Nigerian phone number as well as deduce the network provider or area code.
 
+## NOTE: The network resolution function can't be accurate because Nigeria implemented [Mobile Number Portability](https://en.wikipedia.org/wiki/Mobile_number_portability) in 2013, so the number prefix cannot be reliably used to determine operator anymore.
+
 ### Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
